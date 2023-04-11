@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Qpai
+Version: 0.0.2
+Summary: Qpai
+Author: Aniket Guchhait
+Author-email: aniket.emailme@gmail.com
+Keywords: quantum,machine learning,quantum computing,qiskit,quantum machine learning
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Qpai-Quantum Powered A.I. is an open source library which will be used to develop modern edge Quantum Machine Learning projects.This version includes Vision Transformer model.
